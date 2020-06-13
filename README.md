@@ -1,2 +1,3 @@
 # Hello---Bidhan
-trying new repository
+trying new reposito
+my name is gautam bidhan. I am from nepal
